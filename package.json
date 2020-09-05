@@ -1,0 +1,14 @@
+{
+  "name": "furubot",
+  "version": "0.0.1",
+  "description": "NodeJS bot that monitors the Furucombo Proxy contract for successful arbitrage plays",
+  "main": "FuruWatcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.2.11"
+  }
+}
