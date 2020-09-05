@@ -44,7 +44,7 @@ Furucombo Proxy contract v0.4.1: 0x57805e5a227937BAc2B0FdaCaA30413ddac6B8E1
 ~~~
 5. Activate the Furucombo Monitor
 ~~~
-node FurucomboWatcher.js
+node FuruWatcher.js
 ~~~
 
 ![Screenshot of output](https://github.com/fifikobayashi/FurucomboWatcher/blob/master/node%20output.png)
